@@ -1,0 +1,25 @@
+body {
+    font-family:'Excelorate-Font';
+}
+@font-face {
+    font-family: 'Excelorate-Font';
+    src: url(./public/Fonts/Exctlorate/Exctlorate-Font.otf);
+}
+.head1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Excelorate-Font';
+}
+.headY{
+    border-spacing: 15px;
+    background-color:rgb(255, 102, 0);
+    width:10%;
+    border-collapse: collapse;
+    font-family: initial;
+    border-top-color: rgb(20, 17, 8);
+    border-color: rgb(6, 10, 2);
+    border-radius: 40px;
+    border-radius: 40px;
+    border-radius: 40px;
+    border-radius: 40px;
+}
