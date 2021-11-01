@@ -27,13 +27,15 @@ body {
 border-radius: 10px;
 border-radius: 10px;
 border-radius: 10px;
-border-top-color:rgb(3, 3, 3)
+border-top-color:rgb(3, 3, 3);
+
 } 
 .footer {
-    position:fixed;
-    left: 3; bottom: 0;
+    position: fixed;
+    left: 0; bottom: 0;
     color:rgb(204, 128, 28);
-    width: 100%;
+    width: 25%;
+    
 
 
 
